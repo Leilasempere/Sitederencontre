@@ -1,0 +1,10 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-image: url(assets/images/imageLTD.jpg);
+      background-size: cover; /* L'image s'adapte à la taille de l'écran */
+      background-position: center;
+      color: white; /* Assurez-vous que le texte soit lisible */
+    }
+  </style>
